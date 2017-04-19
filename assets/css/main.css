@@ -21,6 +21,17 @@ hr{
 }
 
 .box{
-  list-style: none;
-  display: inline-block;
+  	list-style: none;
+  	display: inline-block;
+}
+
+.texto{
+	position: absolute;
+	color: white;
+	left: 20px;
+	top: 170px;
+}
+
+.cont-img{
+	position: relative;
 }

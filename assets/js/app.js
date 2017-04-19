@@ -21,6 +21,7 @@ var contenedor = document.getElementsByTagName("body")[0];
 		contenedor.appendChild(li);
 
 		img.setAttribute('class', 'img-box');
+		span.setAttribute('class', 'texto')
 		div.setAttribute('class', 'cont-img');
 		li.setAttribute('class', 'box');
 	}
