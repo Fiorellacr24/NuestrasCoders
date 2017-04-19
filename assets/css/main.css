@@ -18,11 +18,13 @@ hr{
 .img-box{
 	width: 200px;
 	height: 200px;
+	padding: 10px;
 }
 
 .box{
   	list-style: none;
   	display: inline-block;
+  	padding-top: 20px;
 }
 
 .texto{
